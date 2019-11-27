@@ -10,4 +10,4 @@
 
 ## 참고
 
-* [acuworld TIL] (https://github.com/acuworld/TIL)
+* [acuworld TIL](https://github.com/acuworld/TIL)
